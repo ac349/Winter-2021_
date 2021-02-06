@@ -4,7 +4,7 @@ Created on Mon Oct 26 11:33:05 2020
 
 @author: Nicholas Carpentieri
 """
-
+#This file takes data given for a chemical engineering flash situation and computes the values necesarry to generate a pressure Vs liquid fraction versus gas fraction plot. This plot is essential in the Mccabe-Thiele analysis, a method to determine the number of equilbrium stages during a binary flash distillation. 
 
 import scipy.optimize as sp
 import numpy as np 
