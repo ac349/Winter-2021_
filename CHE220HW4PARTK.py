@@ -3,6 +3,7 @@
 Created on Mon Nov  4 23:05:03 2019
 
 @author: Nicholas Carpentieri
+#This file contains code that performs a newton raphson method to determine the the mol fraction in chemical process and plots the results in a table
 """
 
 Line = "%4s%16s%16s%16s%16s%16s"%("k","xi","Ftot","F1tot","dltxi","xi1")
