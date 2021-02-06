@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-
+#This script intakes lists of liquid mole fractions, gas mole fractions, and pressures, and computes thermodynamic quantites such as partial molar gibbs energies. Additonally, it graphs the data and fits it to a redlich-kister expansion
 
 import math
 import scipy.optimize as sp
