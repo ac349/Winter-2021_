@@ -1,7 +1,7 @@
 import Adafruit_DHT
 import time
 import matplotlib.pyplot as pp
-
+#this code reads the temperature and humidity from raspberry pi sensor
 DHT_SENSOR = Adafruit_DHT.DHT22
 DHT_PIN = 4
 
