@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Oct 12 11:17:32 2020
-
+#this file computes the natural log of the parital molar gibbs excess energy at different mol fractions for two species and then comparatively plots both series on the same set of axis
 @author: Nicholas Carpentieri
 """
 import matplotlib.pyplot as pp
