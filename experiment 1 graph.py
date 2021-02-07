@@ -1,6 +1,6 @@
 import matplotlib.pyplot as pp
 import numpy as np
-
+#this file plots temprature and humidity as a function of time
 temp_list = [30.7, 30.6, 30.6, 30.6, 30.6]
 humidity_list = [41.9, 41.9, 41.9, 41.9, 41.9]
 
