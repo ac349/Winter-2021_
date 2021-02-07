@@ -1,5 +1,5 @@
 import re
-
+#this file uses regular expressions to parse a text file and return a list of temperatures and humidities 
 def parse_file(filename):
     digit_pattern = re.compile(r"(\d+\.\d+)")
     temperatures= []
